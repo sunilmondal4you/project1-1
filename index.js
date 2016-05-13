@@ -134,12 +134,6 @@ app.controller('myctrl', function ($scope) {
         , "comment": []
         , "newcomment": []
     }, {
-        "source": 'image/IMG-20160410-WA0040.jpg'
-        , "likecount": 0
-        , "dislikecount": 0
-        , "comment": []
-        , "newcomment": []
-    }, {
         "source": 'image/IMG-20160410-WA0036.jpg'
         , "likecount": 0
         , "dislikecount": 0
