@@ -5,7 +5,7 @@
 var app = angular.module('myapp', []);
 
 app.controller('myctrl', function ($scope) {
-    $scope.nme = "hello";
+    $scope.nme = "hellooooo";
 
     $scope.image = [{
         "source": 'image/13090542_1125303050867545_1829714887_n.jpg'
